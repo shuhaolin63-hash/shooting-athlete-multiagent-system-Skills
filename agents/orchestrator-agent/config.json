@@ -1,0 +1,16 @@
+{
+  "agent_id": "orchestrator-agent",
+  "name": "总调度智能体",
+  "version": "1.0.0",
+  "role": "orchestrator",
+  "max_rounds": 15,
+  "permissions": ["route", "coordinate", "summarize", "quality_control"],
+  "loadable_skills": ["shooting-training-scale", "shared-common"],
+  "child_agents": [
+    "training-analysis-agent",
+    "team-structure-agent",
+    "literature-support-agent",
+    "scale-eval-agent",
+    "data-calc-agent"
+  ]
+}

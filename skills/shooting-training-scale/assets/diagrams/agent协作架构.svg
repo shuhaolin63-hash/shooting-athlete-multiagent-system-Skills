@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" font-family="Arial, sans-serif">
+  <!-- 背景 -->
+  <rect width="1200" height="800" fill="#f8fafc"/>
+
+  <!-- 标题 -->
+  <text x="600" y="40" text-anchor="middle" font-size="24" font-weight="bold" fill="#1e293b">射击训练多智能体协作架构图（15 Agents）</text>
+
+  <!-- 总调度 -->
+  <rect x="450" y="60" width="300" height="50" rx="8" fill="#3b82f6" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="600" y="90" text-anchor="middle" font-size="16" fill="white" font-weight="bold">总调度 orchestrator-agent</text>
+
+  <!-- 连接线从总调度到三个大类 -->
+  <line x1="600" y1="110" x2="200" y2="160" stroke="#94a3b8" stroke-width="2"/>
+  <line x1="600" y1="110" x2="600" y2="160" stroke="#94a3b8" stroke-width="2"/>
+  <line x1="600" y1="110" x2="1000" y2="160" stroke="#94a3b8" stroke-width="2"/>
+
+  <!-- 训练模块标签 -->
+  <text x="200" y="180" text-anchor="middle" font-size="14" fill="#64748b" font-weight="bold">5个训练模块</text>
+  <!-- 通用智能体标签 -->
+  <text x="600" y="180" text-anchor="middle" font-size="14" fill="#64748b" font-weight="bold">3个通用智能体</text>
+  <!-- 团队角色标签 -->
+  <text x="1000" y="180" text-anchor="middle" font-size="14" fill="#64748b" font-weight="bold">6个团队角色</text>
+
+  <!-- 5个训练模块 -->
+  <rect x="50" y="200" width="300" height="40" rx="6" fill="#10b981" stroke="#059669"/>
+  <text x="200" y="225" text-anchor="middle" font-size="13" fill="white">module1 无弹基础定型</text>
+  <rect x="50" y="250" width="300" height="40" rx="6" fill="#10b981" stroke="#059669"/>
+  <text x="200" y="275" text-anchor="middle" font-size="13" fill="white">module2 实弹射击实操</text>
+  <rect x="50" y="300" width="300" height="40" rx="6" fill="#10b981" stroke="#059669"/>
+  <text x="200" y="325" text-anchor="middle" font-size="13" fill="white">module3 射击专项体能</text>
+  <rect x="50" y="350" width="300" height="40" rx="6" fill="#10b981" stroke="#059669"/>
+  <text x="200" y="375" text-anchor="middle" font-size="13" fill="white">module4 赛场高压心理</text>
+  <rect x="50" y="400" width="300" height="40" rx="6" fill="#10b981" stroke="#059669"/>
+  <text x="200" y="425" text-anchor="middle" font-size="13" fill="white">module5 枪械护具装备</text>
+
+  <!-- 连接线训练模块之间 -->
+  <line x1="200" y1="240" x2="200" y2="250" stroke="#10b981" stroke-width="1" stroke-dasharray="4"/>
+  <line x1="200" y1="290" x2="200" y2="300" stroke="#10b981" stroke-width="1" stroke-dasharray="4"/>
+  <line x1="200" y1="340" x2="200" y2="350" stroke="#10b981" stroke-width="1" stroke-dasharray="4"/>
+  <line x1="200" y1="390" x2="200" y2="400" stroke="#10b981" stroke-width="1" stroke-dasharray="4"/>
+
+  <!-- 3个通用智能体 -->
+  <rect x="450" y="200" width="300" height="40" rx="6" fill="#8b5cf6" stroke="#7c3aed"/>
+  <text x="600" y="225" text-anchor="middle" font-size="13" fill="white">literature-support 文献支撑</text>
+  <rect x="450" y="250" width="300" height="40" rx="6" fill="#8b5cf6" stroke="#7c3aed"/>
+  <text x="600" y="275" text-anchor="middle" font-size="13" fill="white">scale-eval 量表评估</text>
+  <rect x="450" y="300" width="300" height="40" rx="6" fill="#8b5cf6" stroke="#7c3aed"/>
+  <text x="600" y="325" text-anchor="middle" font-size="13" fill="white">data-calc 数据计算</text>
+
+  <!-- 6个团队角色 -->
+  <rect x="850" y="200" width="300" height="40" rx="6" fill="#f59e0b" stroke="#d97706"/>
+  <text x="1000" y="225" text-anchor="middle" font-size="13" fill="white">team-coaching 技术教练组</text>
+  <rect x="850" y="250" width="300" height="40" rx="6" fill="#f59e0b" stroke="#d97706"/>
+  <text x="1000" y="275" text-anchor="middle" font-size="13" fill="white">team-strength 专项体能</text>
+  <rect x="850" y="300" width="300" height="40" rx="6" fill="#f59e0b" stroke="#d97706"/>
+  <text x="1000" y="325" text-anchor="middle" font-size="13" fill="white">team-psychology 心理保障</text>
+  <rect x="850" y="350" width="300" height="40" rx="6" fill="#f59e0b" stroke="#d97706"/>
+  <text x="1000" y="375" text-anchor="middle" font-size="13" fill="white">team-medical 医疗康复</text>
+  <rect x="850" y="400" width="300" height="40" rx="6" fill="#f59e0b" stroke="#d97706"/>
+  <text x="1000" y="425" text-anchor="middle" font-size="13" fill="white">team-armorer 枪械装备</text>
+  <rect x="850" y="450" width="300" height="40" rx="6" fill="#f59e0b" stroke="#d97706"/>
+  <text x="1000" y="475" text-anchor="middle" font-size="13" fill="white">team-logistics 后勤保障</text>
+
+  <!-- 底部scales框架 -->
+  <rect x="100" y="500" width="1000" height="50" rx="8" fill="#e2e8f0" stroke="#94a3b8"/>
+  <text x="600" y="530" text-anchor="middle" font-size="14" fill="#334155" font-weight="bold">scales评估量表框架：五大实操维度（各100分/500分）+ 两大保障分类标准</text>
+
+  <!-- 底部三大类说明 -->
+  <rect x="100" y="570" width="300" height="80" rx="6" fill="#ecfdf5" stroke="#10b981"/>
+  <text x="250" y="600" text-anchor="middle" font-size="12" fill="#065f46" font-weight="bold">训练模块核心</text>
+  <text x="250" y="620" text-anchor="middle" font-size="11" fill="#047857">空枪定型→实弹射击→体能</text>
+  <text x="250" y="640" text-anchor="middle" font-size="11" fill="#047857">心理抗压→装备适配</text>
+
+  <rect x="450" y="570" width="300" height="80" rx="6" fill="#f5f3ff" stroke="#8b5cf6"/>
+  <text x="600" y="600" text-anchor="middle" font-size="12" fill="#5b21b6" font-weight="bold">通用智能体核心</text>
+  <text x="600" y="620" text-anchor="middle" font-size="11" fill="#6d28d9">20篇PubMed论文+量化评分</text>
+  <text x="600" y="640" text-anchor="middle" font-size="11" fill="#6d28d9">+训练数据分析</text>
+
+  <rect x="800" y="570" width="300" height="80" rx="6" fill="#fffbeb" stroke="#f59e0b"/>
+  <text x="950" y="600" text-anchor="middle" font-size="12" fill="#92400e" font-weight="bold">团队角色核心</text>
+  <text x="950" y="620" text-anchor="middle" font-size="11" fill="#b45309">教练→体能→心理→医疗</text>
+  <text x="950" y="640" text-anchor="middle" font-size="11" fill="#b45309">→枪械→后勤 三种体制</text>
+
+  <!-- 版本信息 -->
+  <text x="600" y="780" text-anchor="middle" font-size="11" fill="#94a3b8">v2.0 | 2026-07-08 | 射击运动员多智能体系统</text>
+</svg>

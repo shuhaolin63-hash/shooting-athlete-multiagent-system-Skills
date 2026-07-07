@@ -1,0 +1,10 @@
+{
+  "agent_id": "module1-aimless-foundation",
+  "name": "模块1：无弹基础定型智能体",
+  "version": "1.0.0",
+  "role": "module",
+  "domain": "aimless_foundation",
+  "max_rounds": 10,
+  "permissions": ["analyze", "prescribe", "correct", "scenario_adapt"],
+  "loadable_skills": ["shooting-training-scale", "shared-common"]
+}

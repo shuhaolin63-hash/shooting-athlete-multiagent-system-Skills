@@ -1,0 +1,10 @@
+{
+  "agent_id": "scale-eval-agent",
+  "name": "量表评估智能体",
+  "version": "1.0.0",
+  "role": "specialist",
+  "domain": "scale_evaluation",
+  "max_rounds": 10,
+  "permissions": ["score", "evaluate", "track", "recommend"],
+  "loadable_skills": ["shooting-training-scale", "shared-common"]
+}

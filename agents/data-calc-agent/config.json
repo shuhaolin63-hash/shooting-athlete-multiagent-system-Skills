@@ -1,0 +1,10 @@
+{
+  "agent_id": "data-calc-agent",
+  "name": "数据计算智能体",
+  "version": "1.0.0",
+  "role": "specialist",
+  "domain": "data_calculation",
+  "max_rounds": 8,
+  "permissions": ["calculate", "analyze", "predict", "visualize"],
+  "loadable_skills": ["shooting-training-scale", "shared-common"]
+}

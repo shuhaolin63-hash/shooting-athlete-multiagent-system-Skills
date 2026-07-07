@@ -1,0 +1,10 @@
+{
+  "agent_id": "module4-mental-resilience",
+  "name": "模块4：赛场高压心理模拟实操智能体",
+  "version": "1.0.0",
+  "role": "module",
+  "domain": "mental_resilience",
+  "max_rounds": 10,
+  "permissions": ["analyze", "prescribe", "assess"],
+  "loadable_skills": ["shooting-training-scale", "shared-common"]
+}

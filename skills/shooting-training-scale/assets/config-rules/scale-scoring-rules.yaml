@@ -1,0 +1,76 @@
+# 射击顶尖选手训练评估量表 - 打分配置规则
+# Scale-Eval-Agent 自动算分配置文件
+
+version: "2.0"
+last_updated: "2026-07-08"
+
+# 五大维度权重
+dimensions:
+  aimless_foundation:  # 空枪基础定型
+    name: "基础空枪定型"
+    weight: 0.20
+    max_score: 100
+    sub_items:
+      - name: "持枪姿态框架"
+        max_score: 20
+        grading:
+          zero_base_pass: 8
+          provincial: 12
+          national_youth: 16
+          national_team: 19
+      - name: "手部微稳定"
+        max_score: 20
+        grading: {zero_base_pass: 8, provincial: 12, national_youth: 16, national_team: 19}
+      - name: "瞄准标准化"
+        max_score: 20
+        grading: {zero_base_pass: 8, provincial: 12, national_youth: 16, national_team: 19}
+      - name: "击发规范"
+        max_score: 20
+        grading: {zero_base_pass: 8, provincial: 12, national_youth: 16, national_team: 19}
+      - name: "呼吸控制"
+        max_score: 20
+        grading: {zero_base_pass: 8, provincial: 12, national_youth: 16, national_team: 19}
+
+  live_fire:  # 实弹射击
+    name: "分层实弹射击"
+    weight: 0.25
+    max_score: 100
+
+  physical_fitness:  # 专项体能
+    name: "射击专项静力体能"
+    weight: 0.20
+    max_score: 100
+
+  mental_resilience:  # 高压心理
+    name: "赛场高压心理模拟"
+    weight: 0.20
+    max_score: 100
+
+  equipment_fitting:  # 装备适配
+    name: "枪械护具装备适配"
+    weight: 0.15
+    max_score: 100
+
+# 等级判定阈值
+level_thresholds:
+  national_team:
+    label: "国家队"
+    min_percentage: 95
+  national_youth:
+    label: "国青"
+    min_percentage: 80
+  provincial:
+    label: "省赛"
+    min_percentage: 60
+  zero_base_pass:
+    label: "零基础合格"
+    min_percentage: 40
+
+# 扣分规则
+deduction_rules:
+  action_quality: "动作变形每次扣2分"
+  consistency: "连续3发偏差>1环扣5分"
+  breathing: "屏息不足3秒扣3分"
+  trigger: "猛扣扳机扣5分"
+  follow_through: "未保持2秒跟随动作扣3分"
+  mental: "高压场景得分下降>20%扣5分"

@@ -1,0 +1,78 @@
+{
+  "version": "2.0",
+  "last_updated": "2026-07-08",
+  "team_types": {
+    "type_a_national": {
+      "name": "国家队体制",
+      "total_range": [8, 11],
+      "competition_range": [12, 14],
+      "funding": "国家财政拨款",
+      "required_roles": [
+        {"role": "head_coach", "name": "主管主教练", "count": 1, "required": true},
+        {"role": "assistant_coach", "name": "助理教练", "count": [1, 2], "required": true},
+        {"role": "fitness_coach", "name": "体能主教练", "count": 1, "required": true},
+        {"role": "psychologist", "name": "专职心理老师", "count": 1, "required": true},
+        {"role": "team_doctor", "name": "驻队队医", "count": 1, "required": true},
+        {"role": "physiotherapist", "name": "康复理疗师", "count": 2, "required": true},
+        {"role": "armorer", "name": "专属枪械师", "count": 1, "required": true},
+        {"role": "life_manager", "name": "生活管理员", "count": 1, "required": true},
+        {"role": "data_analyst", "name": "数据分析师", "count": 1, "required": true}
+      ],
+      "optional_roles": [
+        {"role": "foundation_coach", "name": "启蒙教练", "count": 1, "condition": "阶段性跟进基础动作修正"},
+        {"role": "fitness_assistant", "name": "体能助理", "count": 1, "condition": "体能主教练下设"},
+        {"role": "culture_teacher", "name": "文化课教师", "count": 1, "condition": "青少年体教融合选手独有"}
+      ],
+      "competition_add": [
+        {"role": "translator", "name": "翻译", "count": 1},
+        {"role": "logistics", "name": "赛事随行保障", "count": [1, 2]},
+        {"role": "researcher", "name": "科研观测人员", "count": 1}
+      ]
+    },
+    "type_b1_private": {
+      "name": "海外自费私人",
+      "total_range": [5, 6],
+      "competition_range": [5, 7],
+      "funding": "个人/赞助商自费",
+      "required_roles": [
+        {"role": "head_coach", "name": "外籍总技术教练", "count": 1, "required": true},
+        {"role": "fitness_coach", "name": "私人体能师", "count": 1, "required": true},
+        {"role": "psychologist", "name": "专职运动心理医生", "count": 1, "required": true},
+        {"role": "armorer", "name": "枪械技师", "count": 1, "required": true},
+        {"role": "physiotherapist", "name": "私人康复理疗师", "count": 1, "required": true}
+      ],
+      "optional_roles": [
+        {"role": "life_manager", "name": "生活管家", "count": 1, "condition": "聚焦个人生活"}
+      ]
+    },
+    "type_b2_association": {
+      "name": "协会共享极简",
+      "total_range": [0, 0],
+      "competition_range": [1, 2],
+      "funding": "协会经费+个人",
+      "required_roles": [],
+      "optional_roles": [],
+      "competition_add": [
+        {"role": "coach", "name": "随行教练", "count": 1},
+        {"role": "doctor", "name": "随行队医", "count": 1}
+      ]
+    }
+  },
+  "completeness_scoring": {
+    "max_score": 100,
+    "weights": {
+      "head_coach": 15,
+      "assistant_coach": 10,
+      "fitness_coach": 12,
+      "psychologist": 12,
+      "team_doctor": 8,
+      "physiotherapist": 10,
+      "armorer": 10,
+      "life_manager": 5,
+      "data_analyst": 8,
+      "foundation_coach": 5,
+      "fitness_assistant": 3,
+      "culture_teacher": 2
+    }
+  }
+}

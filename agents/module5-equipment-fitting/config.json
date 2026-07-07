@@ -1,0 +1,10 @@
+{
+  "agent_id": "module5-equipment-fitting",
+  "name": "模块5：枪械护具装备适配调整智能体",
+  "version": "1.0.0",
+  "role": "module",
+  "domain": "equipment_fitting",
+  "max_rounds": 8,
+  "permissions": ["analyze", "prescribe", "adapt"],
+  "loadable_skills": ["shooting-training-scale", "shared-common"]
+}

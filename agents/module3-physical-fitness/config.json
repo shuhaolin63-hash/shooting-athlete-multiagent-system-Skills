@@ -1,0 +1,10 @@
+{
+  "agent_id": "module3-physical-fitness",
+  "name": "模块3：射击专项体能实操智能体",
+  "version": "1.0.0",
+  "role": "module",
+  "domain": "physical_fitness",
+  "max_rounds": 10,
+  "permissions": ["analyze", "prescribe", "prevent_injury"],
+  "loadable_skills": ["shooting-training-scale", "shared-common"]
+}

@@ -1,0 +1,11 @@
+{
+  "agent_id": "team-strength",
+  "name": "专项科研体能团队智能体",
+  "version": "1.0.0",
+  "role": "team_role",
+  "domain": "strength_conditioning",
+  "max_rounds": 10,
+  "permissions": ["plan", "monitor", "analyze", "prevent_injury"],
+  "loadable_skills": ["shooting-training-scale", "shared-common"],
+  "team_type": "A_support"
+}

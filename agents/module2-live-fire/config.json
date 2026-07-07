@@ -1,0 +1,10 @@
+{
+  "agent_id": "module2-live-fire",
+  "name": "模块2：实弹射击实操智能体",
+  "version": "1.0.0",
+  "role": "module",
+  "domain": "live_fire",
+  "max_rounds": 10,
+  "permissions": ["analyze", "prescribe", "correct", "scenario_adapt"],
+  "loadable_skills": ["shooting-training-scale", "shared-common"]
+}

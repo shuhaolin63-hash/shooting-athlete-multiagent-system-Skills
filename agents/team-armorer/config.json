@@ -1,0 +1,11 @@
+{
+  "agent_id": "team-armorer",
+  "name": "枪械装备技术师智能体",
+  "version": "1.0.0",
+  "role": "team_role",
+  "domain": "armorer",
+  "max_rounds": 8,
+  "permissions": ["calibrate", "modify", "maintain", "inspect"],
+  "loadable_skills": ["shared-common"],
+  "team_type": "A_support"
+}

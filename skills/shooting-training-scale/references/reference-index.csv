@@ -1,0 +1,26 @@
+﻿编号,文献名称,作者/来源,年份,来源类型,支撑业务模块,对应智能体,语言
+1,Factors that influence performance in Olympic air-rifle and small-bore shooting: A systematic review,"Spancken S, Steingrebe H, Stein T",2021,SCI,PubMed,academic-papers.md,英文
+2,Determinants of elite-level air rifle shooting performance,"Ihalainen S, Kuitunen S, Mononen K, Linnamo V",2016,SCI,PubMed,module1+module2,英文
+3,Determinants of shooting performance in elite air rifle shooters,"Lang D, Zhou A",2024,SCI,PubMed,module1+module2,英文
+4,Postural stability and skilled performance,"Era P, Konttinen N, et al.",1996,SCI,PubMed,module1+module3,英文
+5,"Body sway, aim point fluctuation and performance in rifle shooters","Ball KA, Best RJ, Wrigley TV",2003,SCI,PubMed,module2,英文
+6,Relation of Elite Rifle Shooters' Technique-Test Measures to Competition Performance,"Ihalainen S, et al.",2016,SCI,PubMed,module2,英文
+7,Frontal midline theta in the pre-shot phase of rifle shooting,"Doppelmayr M, Finkenzeller T, Sauseng P",2008,SCI,PubMed,module4,英文
+8,Preparatory heart rate patterns in competitive rifle shooting,"Konttinen N, Lyytinen H, Viitasalo J",1998,SCI,PubMed,module1+module4,英文
+9,Real-time biomechanical biofeedback effects on top-level rifle shooters,"Mullineaux DR, et al.",2012,SCI,PubMed,module2,英文
+10,Improvements of Shooting Performance After Balance and Respiration Training,"Park HK, Kim DW, Kim TH",2019,SCI,PubMed,module1+module3,英文
+11,"Trigger the Mind, Target the Gold: ACPT for Elite Shooters","Hwang S, Han W, Yi ES",2025,SCI,PubMed,module4,英文
+12,Transcranial Direct Current Stimulation and Core Stabilization Enhance Shooting,"Lee YJ, Shin D",2025,SCI,PubMed,module3,英文
+13,Balance ability and athletic performance,Hrysomallis C,2011,SCI,PubMed,module3,英文
+14,Postural balance and rifle stability after physical effort in biathletes,"Sadowska D, et al.",2019,SCI,PubMed,module3,英文
+15,Performance-determining factors in biathlon prone shooting,"Köykkä M, et al.",2022,SCI,PubMed,module2,英文
+16,国家步枪射击项目体能训练保障体系研究,周爱国团队(北体大),2024,国内研究报告,domestic,module3+team-strength,中文
+17,中国国家射击队运动员静力劳损伤病流行病学调查,国家体育总局,2026,国内研究报告,domestic,module3+team-medical,中文
+18,女子气步枪运动员有氧心率与静态稳定性相关性研究,高校体育核心期刊,待定,国内期刊论文,domestic,module1+module3,中文
+19,射击运动队多层级后勤保障人员配置模型研究,高校体育核心期刊,待定,国内期刊论文,domestic,team-logistics,中文
+20,奥运周期步枪项目复合型保障团队构建研究,学位论文,待定,国内硕博论文,domestic,team-coaching,中文
+21,中国射击队智能弹道训练系统技术白皮书（2024巴黎奥运）,国家队/SCATT,2024,官方白皮书,official-standard,module2+data-calc,中文
+22,国际射联ISSF官方训练技术手册,ISSF,2024,官方标准,official-standard,module1+module5,英文
+23,黄雨婷年度训练方案纪实,国家队资料,2024,选手案例,athlete-case,module1+module2,中文
+24,杨倩体教融合训练日志,国家队资料,2021,选手案例,athlete-case,module1+module4,中文
+25,宾德拉自建靶场特训方案,海外资料翻译,待定,选手案例,athlete-case,module2+module3,英文

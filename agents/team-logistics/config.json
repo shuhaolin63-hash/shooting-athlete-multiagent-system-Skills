@@ -1,0 +1,11 @@
+{
+  "agent_id": "team-logistics",
+  "name": "后勤综合保障智能体",
+  "version": "1.0.0",
+  "role": "team_role",
+  "domain": "logistics",
+  "max_rounds": 8,
+  "permissions": ["plan", "analyze", "coordinate", "manage"],
+  "loadable_skills": ["shared-common"],
+  "team_type": "A_support"
+}

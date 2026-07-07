@@ -1,0 +1,11 @@
+{
+  "agent_id": "team-psychology",
+  "name": "运动心理保障智能体",
+  "version": "1.0.0",
+  "role": "team_role",
+  "domain": "sport_psychology",
+  "max_rounds": 10,
+  "permissions": ["assess", "counsel", "train", "simulate"],
+  "loadable_skills": ["shooting-training-scale", "shared-common"],
+  "team_type": "A_support"
+}

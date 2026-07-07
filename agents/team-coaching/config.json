@@ -1,0 +1,11 @@
+{
+  "agent_id": "team-coaching",
+  "name": "技术教练组智能体",
+  "version": "1.0.0",
+  "role": "team_role",
+  "domain": "coaching",
+  "max_rounds": 12,
+  "permissions": ["plan", "correct", "analyze", "film_review"],
+  "loadable_skills": ["shooting-training-scale", "shared-common"],
+  "team_type": "A_core"
+}

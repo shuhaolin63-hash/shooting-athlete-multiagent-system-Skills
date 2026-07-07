@@ -1,0 +1,10 @@
+{
+  "agent_id": "literature-support-agent",
+  "name": "文献支撑智能体",
+  "version": "1.0.0",
+  "role": "specialist",
+  "domain": "literature_support",
+  "max_rounds": 8,
+  "permissions": ["search", "cite", "evaluate_evidence"],
+  "loadable_skills": ["shooting-training-scale", "shared-common"]
+}

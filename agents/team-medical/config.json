@@ -1,0 +1,11 @@
+{
+  "agent_id": "team-medical",
+  "name": "医疗康复组智能体",
+  "version": "1.0.0",
+  "role": "team_role",
+  "domain": "medical_rehab",
+  "max_rounds": 10,
+  "permissions": ["diagnose", "rehab", "prevent", "recover"],
+  "loadable_skills": ["shared-common"],
+  "team_type": "A_support"
+}

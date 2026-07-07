@@ -1,0 +1,385 @@
+{
+  "meta": {
+    "生成时间": "2026-07-08 02:22:48",
+    "报告类型": "射击运动员综合训练能力评估报告"
+  },
+  "个人训练水平": {
+    "综合评级": "省赛",
+    "总分": 356,
+    "满分": 500,
+    "得分率": 71.2,
+    "各维度得分": {
+      "基础空枪定型": {
+        "得分": 82,
+        "满分": 100,
+        "得分率": 82.0
+      },
+      "分层实弹射击": {
+        "得分": 75,
+        "满分": 100,
+        "得分率": 75.0
+      },
+      "射击专项静力体能": {
+        "得分": 68,
+        "满分": 100,
+        "得分率": 68.0
+      },
+      "赛场高压心理模拟": {
+        "得分": 71,
+        "满分": 100,
+        "得分率": 71.0
+      },
+      "枪械护具装备适配": {
+        "得分": 60,
+        "满分": 100,
+        "得分率": 60.0
+      }
+    },
+    "短板维度": []
+  },
+  "身体机能评估": {
+    "items": {
+      "resting_hr": {
+        "label": "静息心率",
+        "status": "未达标",
+        "status_label": "未达标",
+        "value": 58,
+        "unit": "bpm",
+        "classify_desc": "良好"
+      },
+      "single_leg_stance": {
+        "label": "单脚站立",
+        "status": "未达标",
+        "status_label": "未达标",
+        "value": 52,
+        "unit": "sec"
+      },
+      "plank_hold": {
+        "label": "平板支撑",
+        "status": "未测量",
+        "value": null,
+        "unit": "sec"
+      },
+      "static_hold": {
+        "label": "静态持枪",
+        "status": "未达标",
+        "status_label": "未达标",
+        "value": 75,
+        "unit": "min",
+        "classify_desc": "优秀"
+      },
+      "shoulder_width": {
+        "label": "肩宽",
+        "status": "未达标",
+        "status_label": "未达标",
+        "value": 38,
+        "unit": "cm"
+      },
+      "wingspan": {
+        "label": "臂展",
+        "status": "未达标",
+        "status_label": "未达标",
+        "value": 175,
+        "unit": "cm"
+      },
+      "shell_stack": {
+        "label": "弹壳叠放",
+        "status": "未测量",
+        "value": null,
+        "unit": "pcs"
+      },
+      "trigger_precision": {
+        "label": "扳机精度",
+        "status": "未测量",
+        "value": null,
+        "unit": "g"
+      }
+    },
+    "summary": {
+      "total_items": 8,
+      "checked_items": 5,
+      "main_level": "未达标",
+      "main_level_label": "未达标",
+      "level_distribution": {
+        "national_team": 0,
+        "national_youth": 0,
+        "provincial": 0,
+        "zero_base": 0,
+        "未达标": 5
+      }
+    }
+  },
+  "保障团队审计": {
+    "团队类型": "国家队体制",
+    "完备度得分": 67,
+    "完备度满分": 90,
+    "完备度": 74.4,
+    "评级": "良好 - 基本满足训练需求",
+    "缺失岗位": [
+      "康复理疗师",
+      "生活管理员",
+      "数据分析师"
+    ]
+  },
+  "训练统计": null,
+  "参考文献": {
+    "PubMed": [
+      {
+        "编号": "1",
+        "文献名称": "Factors that influence performance in Olympic air-rifle and small-bore shooting: A systematic review",
+        "作者/来源": "Spancken S, Steingrebe H, Stein T",
+        "年份": "2021",
+        "来源类型": "SCI",
+        "支撑业务模块": "PubMed",
+        "对应智能体": "academic-papers.md",
+        "语言": "英文"
+      },
+      {
+        "编号": "2",
+        "文献名称": "Determinants of elite-level air rifle shooting performance",
+        "作者/来源": "Ihalainen S, Kuitunen S, Mononen K, Linnamo V",
+        "年份": "2016",
+        "来源类型": "SCI",
+        "支撑业务模块": "PubMed",
+        "对应智能体": "module1+module2",
+        "语言": "英文"
+      },
+      {
+        "编号": "3",
+        "文献名称": "Determinants of shooting performance in elite air rifle shooters",
+        "作者/来源": "Lang D, Zhou A",
+        "年份": "2024",
+        "来源类型": "SCI",
+        "支撑业务模块": "PubMed",
+        "对应智能体": "module1+module2",
+        "语言": "英文"
+      },
+      {
+        "编号": "4",
+        "文献名称": "Postural stability and skilled performance",
+        "作者/来源": "Era P, Konttinen N, et al.",
+        "年份": "1996",
+        "来源类型": "SCI",
+        "支撑业务模块": "PubMed",
+        "对应智能体": "module1+module3",
+        "语言": "英文"
+      },
+      {
+        "编号": "5",
+        "文献名称": "Body sway, aim point fluctuation and performance in rifle shooters",
+        "作者/来源": "Ball KA, Best RJ, Wrigley TV",
+        "年份": "2003",
+        "来源类型": "SCI",
+        "支撑业务模块": "PubMed",
+        "对应智能体": "module2",
+        "语言": "英文"
+      },
+      {
+        "编号": "6",
+        "文献名称": "Relation of Elite Rifle Shooters' Technique-Test Measures to Competition Performance",
+        "作者/来源": "Ihalainen S, et al.",
+        "年份": "2016",
+        "来源类型": "SCI",
+        "支撑业务模块": "PubMed",
+        "对应智能体": "module2",
+        "语言": "英文"
+      },
+      {
+        "编号": "7",
+        "文献名称": "Frontal midline theta in the pre-shot phase of rifle shooting",
+        "作者/来源": "Doppelmayr M, Finkenzeller T, Sauseng P",
+        "年份": "2008",
+        "来源类型": "SCI",
+        "支撑业务模块": "PubMed",
+        "对应智能体": "module4",
+        "语言": "英文"
+      },
+      {
+        "编号": "8",
+        "文献名称": "Preparatory heart rate patterns in competitive rifle shooting",
+        "作者/来源": "Konttinen N, Lyytinen H, Viitasalo J",
+        "年份": "1998",
+        "来源类型": "SCI",
+        "支撑业务模块": "PubMed",
+        "对应智能体": "module1+module4",
+        "语言": "英文"
+      },
+      {
+        "编号": "9",
+        "文献名称": "Real-time biomechanical biofeedback effects on top-level rifle shooters",
+        "作者/来源": "Mullineaux DR, et al.",
+        "年份": "2012",
+        "来源类型": "SCI",
+        "支撑业务模块": "PubMed",
+        "对应智能体": "module2",
+        "语言": "英文"
+      },
+      {
+        "编号": "10",
+        "文献名称": "Improvements of Shooting Performance After Balance and Respiration Training",
+        "作者/来源": "Park HK, Kim DW, Kim TH",
+        "年份": "2019",
+        "来源类型": "SCI",
+        "支撑业务模块": "PubMed",
+        "对应智能体": "module1+module3",
+        "语言": "英文"
+      },
+      {
+        "编号": "11",
+        "文献名称": "Trigger the Mind, Target the Gold: ACPT for Elite Shooters",
+        "作者/来源": "Hwang S, Han W, Yi ES",
+        "年份": "2025",
+        "来源类型": "SCI",
+        "支撑业务模块": "PubMed",
+        "对应智能体": "module4",
+        "语言": "英文"
+      },
+      {
+        "编号": "12",
+        "文献名称": "Transcranial Direct Current Stimulation and Core Stabilization Enhance Shooting",
+        "作者/来源": "Lee YJ, Shin D",
+        "年份": "2025",
+        "来源类型": "SCI",
+        "支撑业务模块": "PubMed",
+        "对应智能体": "module3",
+        "语言": "英文"
+      },
+      {
+        "编号": "13",
+        "文献名称": "Balance ability and athletic performance",
+        "作者/来源": "Hrysomallis C",
+        "年份": "2011",
+        "来源类型": "SCI",
+        "支撑业务模块": "PubMed",
+        "对应智能体": "module3",
+        "语言": "英文"
+      },
+      {
+        "编号": "14",
+        "文献名称": "Postural balance and rifle stability after physical effort in biathletes",
+        "作者/来源": "Sadowska D, et al.",
+        "年份": "2019",
+        "来源类型": "SCI",
+        "支撑业务模块": "PubMed",
+        "对应智能体": "module3",
+        "语言": "英文"
+      },
+      {
+        "编号": "15",
+        "文献名称": "Performance-determining factors in biathlon prone shooting",
+        "作者/来源": "Köykkä M, et al.",
+        "年份": "2022",
+        "来源类型": "SCI",
+        "支撑业务模块": "PubMed",
+        "对应智能体": "module2",
+        "语言": "英文"
+      }
+    ],
+    "athlete-case": [
+      {
+        "编号": "23",
+        "文献名称": "黄雨婷年度训练方案纪实",
+        "作者/来源": "国家队资料",
+        "年份": "2024",
+        "来源类型": "选手案例",
+        "支撑业务模块": "athlete-case",
+        "对应智能体": "module1+module2",
+        "语言": "中文"
+      },
+      {
+        "编号": "24",
+        "文献名称": "杨倩体教融合训练日志",
+        "作者/来源": "国家队资料",
+        "年份": "2021",
+        "来源类型": "选手案例",
+        "支撑业务模块": "athlete-case",
+        "对应智能体": "module1+module4",
+        "语言": "中文"
+      },
+      {
+        "编号": "25",
+        "文献名称": "宾德拉自建靶场特训方案",
+        "作者/来源": "海外资料翻译",
+        "年份": "待定",
+        "来源类型": "选手案例",
+        "支撑业务模块": "athlete-case",
+        "对应智能体": "module2+module3",
+        "语言": "英文"
+      }
+    ],
+    "domestic": [
+      {
+        "编号": "16",
+        "文献名称": "国家步枪射击项目体能训练保障体系研究",
+        "作者/来源": "周爱国团队(北体大)",
+        "年份": "2024",
+        "来源类型": "国内研究报告",
+        "支撑业务模块": "domestic",
+        "对应智能体": "module3+team-strength",
+        "语言": "中文"
+      },
+      {
+        "编号": "17",
+        "文献名称": "中国国家射击队运动员静力劳损伤病流行病学调查",
+        "作者/来源": "国家体育总局",
+        "年份": "2026",
+        "来源类型": "国内研究报告",
+        "支撑业务模块": "domestic",
+        "对应智能体": "module3+team-medical",
+        "语言": "中文"
+      },
+      {
+        "编号": "18",
+        "文献名称": "女子气步枪运动员有氧心率与静态稳定性相关性研究",
+        "作者/来源": "高校体育核心期刊",
+        "年份": "待定",
+        "来源类型": "国内期刊论文",
+        "支撑业务模块": "domestic",
+        "对应智能体": "module1+module3",
+        "语言": "中文"
+      },
+      {
+        "编号": "19",
+        "文献名称": "射击运动队多层级后勤保障人员配置模型研究",
+        "作者/来源": "高校体育核心期刊",
+        "年份": "待定",
+        "来源类型": "国内期刊论文",
+        "支撑业务模块": "domestic",
+        "对应智能体": "team-logistics",
+        "语言": "中文"
+      },
+      {
+        "编号": "20",
+        "文献名称": "奥运周期步枪项目复合型保障团队构建研究",
+        "作者/来源": "学位论文",
+        "年份": "待定",
+        "来源类型": "国内硕博论文",
+        "支撑业务模块": "domestic",
+        "对应智能体": "team-coaching",
+        "语言": "中文"
+      }
+    ],
+    "official-standard": [
+      {
+        "编号": "21",
+        "文献名称": "中国射击队智能弹道训练系统技术白皮书（2024巴黎奥运）",
+        "作者/来源": "国家队/SCATT",
+        "年份": "2024",
+        "来源类型": "官方白皮书",
+        "支撑业务模块": "official-standard",
+        "对应智能体": "module2+data-calc",
+        "语言": "中文"
+      },
+      {
+        "编号": "22",
+        "文献名称": "国际射联ISSF官方训练技术手册",
+        "作者/来源": "ISSF",
+        "年份": "2024",
+        "来源类型": "官方标准",
+        "支撑业务模块": "official-standard",
+        "对应智能体": "module1+module5",
+        "语言": "英文"
+      }
+    ]
+  }
+}
