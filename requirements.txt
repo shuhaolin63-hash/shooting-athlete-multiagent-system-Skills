@@ -1,0 +1,8 @@
+# Shooting Athlete Multi-Agent System - Python Dependencies
+# Required for automated scoring scripts (scripts/)
+# Not required for agent conversation functionality
+
+pyyaml>=6.0
+openpyxl>=3.1.0
+pandas>=2.0.0
+matplotlib>=3.7.0
