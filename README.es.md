@@ -29,40 +29,31 @@
 
 ---
 
-## ⚠️ Aviso Legal (Legal Disclaimer)
+## ⚠️ Declaración de Cumplimiento (Compliance Statement)
 
-### Regulación de la tenencia de carabinas de aire en China
+### Regulación de las carabinas de aire deportivas en China
 
-> **Las carabinas de aire comprimido están clasificadas como armas de fuego controladas en China. Queda terminantemente prohibida su tenencia, colección o compra por parte de particulares.**
+> **Las carabinas de aire deportivas están sujetas a una reglamentación estricta en China. Su configuración y uso están reservados exclusivamente a las organizaciones de tiro deportivo aprobadas y los campos de tiro comerciales autorizados. No se permite la posesión privada por parte de particulares.**
 
-Según la «Ley de la República Popular China sobre el Control de Armas de Fuego» (Decreto Presidencial N.° 72, enmendada en 2015):
-- **Artículo 46**: Las armas de aire comprimado impulsadas por gas a presión se incluyen explícitamente en la categoría de «armas de fuego» según la presente ley
-- **Artículo 3**: Se prohíbe a toda entidad o persona poseer, fabricar o comprar armas de fuego contraviniendo las disposiciones legales
-- **Artículo 41**: La tenencia ilegal u ocultación de armas de fuego se sancionará con responsabilidad penal conforme al Código Penal
+Cumpla con todas las leyes y reglamentos aplicables en su país/región. En China, las actividades relacionadas con las carabinas de aire deportivas están reguladas por:
+- La «Ley de la República Popular China sobre el Control de Armas de Fuego»
+- El «Código Penal de la República Popular China»
+- Las normas de aplicación y los estándares técnicos formulados por las autoridades competentes
 
-Según el artículo 128 del Código Penal de China:
-- La tenencia ilegal u ocultación de armas de fuego y municiones se castiga con **pena de prisión de hasta tres años, detención o restricción de libertad**
-- En casos graves, la pena es de **tres a siete años de prisión**
-
-Según las «Disposiciones del Ministerio de Seguridad Pública sobre la Peritación de Características de Armas de Fuego y Municiones Involucradas en Casos» (Gongtongzi [2010] N.° 67):
-- Energía cinética en la boca del cañón >= 1,8 J/cm^2 -> se califica directamente como arma de fuego en sentido jurídico
-
-**Condiciones de tenencia legal (solo para las siguientes organizaciones):**
+**Condiciones de uso legal (solo para las siguientes organizaciones):**
 - Unidades deportivas de tiro competitivo aprobadas por los órganos provinciales de administración deportiva
 - Campos de tiro comerciales aprobados por los órganos provinciales de seguridad pública
-- Las armas se custodian de forma unificada en arsenales especializados; los deportistas las utilizan únicamente durante entrenamientos y competiciones en los lugares designados
+- El material deportivo se custodia de forma centralizada en instalaciones especializadas; los deportistas lo utilizan únicamente durante entrenamientos y competiciones en los lugares designados
 
 ### Fuentes normativas
 | Nombre de la norma | Enlace de origen |
 |----------|----------|
 | «Ley de la República Popular China sobre el Control de Armas de Fuego» | [Administración Estatal de Regulación del Mercado de China](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_03a88157bf8a49c19f6b35a2e3ce5c19.html) |
-| Artículo 128 del Código Penal de China | [Hualv.com](https://m.66law.cn/question/answer/34411797.html) |
-| Disposiciones del Ministerio de Seguridad Pública sobre peritación balística | [Disposiciones sobre la peritación de armas de fuego y municiones](http://m.toutiao.com/group/7379891161579651621/) |
-| «Criterios de Peritación Forense de la Capacidad Lesiva de Armas de Fuego» GA/T 718-2007 | [Criterios del MPS para la calificación de armas simuladas](https://m.baike.com/wiki/%E5%85%AC%E5%AE%89%E9%83%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E4%BB%BF%E7%9C%9F%E6%9E%AA%E8%AE%A4%E5%AE%9A%E6%A0%87%E5%87%86%E7%9A%84%E9%80%9A%E7%9F%A5/21178760) |
+| Disposiciones pertinentes del Código Penal | [Hualv.com](https://m.66law.cn/question/answer/34411797.html) |
 
 ### Finalidad de este sistema
 
-**Este sistema es un proyecto exclusivamente de sistematización de conocimientos y no contiene ninguna guía de operación, fabricación, compra o tenencia de armas de fuego reales.** Todos los métodos de entrenamiento se centran en los conocimientos teóricos del tiro deportivo, la preparación física, el entrenamiento psicológico y la investigación académica. El entrenamiento sin munición (práctica con el arma descargada) debe realizarse en instalaciones de tiro legales bajo la supervisión de un entrenador profesional.
+**Este sistema es un proyecto exclusivamente de sistematización de conocimientos y no contiene ninguna guía de operación, fabricación, compra o tenencia de material deportivo real.** Todos los métodos de entrenamiento se centran en los conocimientos teóricos del tiro deportivo, la preparación física, el entrenamiento psicológico y la investigación académica. El entrenamiento sin munición debe realizarse en instalaciones de tiro legales bajo la supervisión de un entrenador profesional.
 
 ---
 
@@ -385,11 +376,11 @@ MIT License © 2026
 
 ---
 
-## Descargo de responsabilidad (Disclaimer)
+## Aviso Legal
 
-1. Este sistema es un proyecto exclusivamente de sistematización de conocimientos y material de referencia educativo, **no contiene ninguna guía de operación de armas de fuego reales**
-2. Todas las «prácticas con el arma descargada» en los métodos de entrenamiento deben realizarse **en instalaciones de tiro legales bajo la supervisión de un entrenador profesional**
-3. **Las carabinas de aire comprimido están clasificadas como armas de fuego controladas en China**, queda terminantemente prohibida su tenencia, colección o compra por parte de particulares; los infractores serán perseguidos penalmente
-4. Todos los datos de este sistema provienen de plataformas académicas públicas (PubMed, CrossRef, ScienceDirect, etc.) y no contienen ninguna información no pública
-5. Los derechos de los artículos académicos pertenecen a sus autores y editores; este sistema realiza únicamente citación académica y sistematización de conocimientos
-6. Este sistema está destinado exclusivamente al aprendizaje e intercambio de conocimientos y no puede utilizarse con fines comerciales
+1. Este sistema es un proyecto exclusivamente de sistematización de conocimientos y referencia de aprendizaje. **No contiene ninguna guía sobre el funcionamiento de material deportivo real**.
+2. Todo «entrenamiento sin munición» debe realizarse **en instalaciones de tiro legales bajo la supervisión de un entrenador profesional**.
+3. **Las carabinas de aire deportivas están sujetas a una reglamentación estricta en China** y solo pueden ser configuradas legalmente por organizaciones aprobadas. Cumpla todas las leyes aplicables en su jurisdicción.
+4. Todos los datos de este sistema provienen de plataformas académicas públicas (PubMed, CrossRef, ScienceDirect, etc.). No se utiliza información no pública.
+5. Todos los artículos académicos están protegidos por los derechos de autor de sus respectivos autores y editores. Este sistema se limita a la cita académica y la organización de conocimientos.
+6. Este sistema está destinado únicamente al aprendizaje y al intercambio de conocimientos y no debe utilizarse con fines comerciales.

@@ -29,40 +29,31 @@
 
 ---
 
-## ⚠️ Legal Disclaimer
+## ⚠️ Compliance Statement
 
-### Air Rifle Regulations in China
+### Regulations on Sports Air Rifles in China
 
-> **Air rifles are classified as controlled firearms in China. Individuals are prohibited from privately possessing, collecting, or trading them.**
+> **Sports air rifles are subject to strict legal regulation in China. They may only be legally configured and used by approved shooting sports organizations and commercial shooting ranges. Private possession by individuals is not permitted.**
 
-Under the *Gun Control Law of the People's Republic of China* (Presidential Decree No. 72, as amended in 2015):
-- **Article 46**: Gas-powered guns are explicitly classified as "firearms" under this Law
-- **Article 3**: No unit or individual shall violate the law by possessing, manufacturing, or trading firearms
-- **Article 41**: Illegal possession or concealment of firearms is subject to criminal prosecution under the *Criminal Law*
+Please comply with all applicable laws and regulations in your country/region. In China, sports air rifle activities are governed by:
+- The *Gun Control Law of the People's Republic of China*
+- The *Criminal Law of the People's Republic of China*
+- Implementation rules and technical standards formulated by relevant authorities
 
-Under Article 128 of the *Criminal Law*:
-- Illegal possession or concealment of firearms or ammunition is punishable by **up to three years of fixed-term imprisonment, criminal detention, or public surveillance**
-- In serious cases, the penalty is **three to seven years of fixed-term imprisonment**
-
-Under the Ministry of Public Security's *Provisions on Performance Appraisal of Firearms and Ammunition Involved in Cases* (Public Communication [2010] No. 67):
-- Muzzle specific kinetic energy ≥ 1.8 J/cm² → Directly recognized as a firearm under the law
-
-**Conditions for lawful possession (limited to the following organizations only)**:
+**Conditions for lawful use (limited to the following organizations only)**:
 - Shooting sports units approved by provincial sports administrative authorities
 - Commercial shooting ranges approved by provincial public security authorities
-- Firearms must be stored in dedicated armories by the organization; athletes may only use them at designated venues during training and competitions
+- Sports equipment is centrally stored in dedicated facilities by the organization; athletes may only use it at designated venues during training and competitions
 
 ### References for Legal Provisions
 | Regulation | Source Link |
 |------------|-------------|
 | *Gun Control Law of the People's Republic of China* | [State Administration for Market Regulation](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_03a88157bf8a49c19f6b35a2e3ce5c19.html) |
-| Article 128 of the *Criminal Law* | [Hualaw](https://m.66law.cn/question/answer/34411797.html) |
-| Ministry of Public Security Firearms Appraisal Provisions | [Public Security Bureau Firearms Appraisal Provisions](http://m.toutiao.com/group/7379891161579651621/) |
-| *Forensic Criteria for Lethal Force of Firearms* GA/T 718-2007 | [Ministry of Public Security Simulated Gun Recognition Standards](https://m.baike.com/wiki/%E5%85%AC%E5%AE%89%E9%83%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E4%BB%BF%E7%9C%9F%E6%9E%AA%E8%AE%A4%E5%AE%9A%E6%A0%87%E5%87%86%E7%9A%84%E9%80%9A%E7%9F%A5/21178760) |
+| Relevant provisions of the *Criminal Law* | [Hualaw](https://m.66law.cn/question/answer/34411797.html) |
 
 ### Nature of This System
 
-**This system is a pure knowledge organization project. It does not involve any guidance on the operation, manufacture, trading, or possession of physical firearms.** All training methods focus on theoretical knowledge of shooting sports, physical fitness training, mental training, and academic research. Aimless-fire foundation training (dry-fire practice) should be conducted at lawful shooting training venues under the guidance of professional coaches.
+**This system is a pure knowledge organization project. It does not involve any guidance on the operation, manufacture, trading, or possession of physical sports equipment.** All training methods focus on theoretical knowledge of shooting sports, physical fitness training, mental training, and academic research. Dry-fire practice should be conducted at lawful shooting training venues under the guidance of professional coaches.
 
 ---
 
@@ -388,9 +379,9 @@ MIT License © 2026
 
 ## Disclaimer
 
-1. This system is a pure knowledge organization and learning reference project. It **does not involve any guidance on the operation of physical firearms**.
+1. This system is a pure knowledge organization and learning reference project. It **does not involve any guidance on the operation of physical sports equipment**.
 2. All "dry-fire practice" in the training methods should be conducted **at lawful shooting training venues under the guidance of professional coaches**.
-3. **Air rifles are classified as controlled firearms in China**. Individuals are prohibited from privately possessing, collecting, or trading them. Violators will be subject to criminal prosecution.
+3. **Sports air rifles are subject to strict legal regulation in China** and may only be legally configured by approved organizations. Please comply with all applicable laws in your jurisdiction.
 4. All data in this system are sourced from public academic platforms (PubMed, CrossRef, ScienceDirect, etc.). No non-public information is involved.
 5. All academic papers are copyrighted by their respective authors and publishers. This system is limited to academic citation and knowledge organization only.
 6. This system is intended for learning and exchange purposes only and shall not be used for commercial purposes.

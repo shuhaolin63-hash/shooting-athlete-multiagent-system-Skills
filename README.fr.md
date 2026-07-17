@@ -29,41 +29,31 @@
 
 ---
 
-## ⚠️ Avertissement Légal (Legal Disclaimer)
+## ⚠️ Déclaration de Conformité (Compliance Statement)
 
-### Réglementation chinoise sur la détention de carabines à air
+### Réglementation chinoise sur les carabines à air sportives
 
-> **Les carabines à air comprimé sont classées comme armes à feu réglementées en Chine. Toute détention, collection ou transaction privée par des particuliers est interdite.**
+> **Les carabines à air sportives sont soumises à une réglementation stricte en Chine. Leur configuration et leur utilisation sont réservées exclusivement aux organisations de tir sportif agréées et aux stands de tir commerciaux agréés. La détention privée par des particuliers n'est pas autorisée.**
 
-Conformément à la « Loi de la République populaire de Chine sur le contrôle des armes à feu » (Décret présidentiel n° 72, amendée en 2015) :
-- **Article 46** : Les armes à air comprimé utilisant un gaz sous pression relèvent explicitement du champ d'application de la présente loi au titre d'« armes à feu »
-- **Article 3** : Il est interdit à toute entité ou personne physique de détenir, fabriquer ou acheter des armes à feu en violation des dispositions légales
-- **Article 41** : La détention illégale ou la dissimulation d'armes à feu est passible de poursuites pénales conformément au Code pénal
+Veuillez vous conformer aux lois et réglementations en vigueur dans votre pays/région. En Chine, les activités liées aux carabines à air sportives sont régies par :
+- La « Loi de la République populaire de Chine sur le contrôle des armes à feu »
+- Le « Code pénal de la République populaire de Chine »
+- Les règles d'application et les normes techniques formulées par les autorités compétentes
 
-Conformément à l'article 128 du Code pénal :
-- La détention illégale ou la dissimulation d'armes à feu et de munitions est punie d'une **peine d'emprisonnement de trois ans au maximum, de détention ou de contrôle judiciaire**
-- Dans les cas graves, la peine est de **trois à sept ans d'emprisonnement**
-
-Conformément aux « Dispositions du Ministère de la Sécurité publique sur l'expertise des caractéristiques des armes à feu et munitions impliquées dans les affaires » (Gongtongzi [2010] n° 67) :
-- Énergie cinétique au niveau de la bouche ≥ 1,8 J/cm² → qualification directe comme arme à feu au sens juridique
-
-**Conditions de détention légale (réservées aux entités suivantes uniquement)** :
+**Conditions d'utilisation légale (réservées aux entités suivantes uniquement)** :
 - Unités sportives de tir compétitif agréées par les autorités provinciales en charge des sports
 - Stand de tir commercial agréé par les autorités provinciales de sécurité publique
-- Les armes sont conservées de manière centralisée dans une armerie dédiée par l'entité ; les athlètes ne les utilisent que lors des entraînements et compétitions, dans les lieux désignés
+- Le matériel sportif est conservé de manière centralisée dans des installations dédiées par l'entité ; les athlètes ne l'utilisent que lors des entraînements et compétitions, dans les lieux désignés
 
 ### Sources réglementaires de référence
-
 | Nom du règlement | Lien source |
 |----------|----------|
 | « Loi de la République populaire de Chine sur le contrôle des armes à feu » | [Administration d'État pour la Régulation du Marché](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_03a88157bf8a49c19f6b35a2e3ce5c19.html) |
-| Article 128 du Code pénal | [Hualaw](https://m.66law.cn/question/answer/34411797.html) |
-| Dispositions du Ministère de la Sécurité publique sur l'expertise des armes à feu | [Dispositions sur l'expertise des armes à feu et munitions impliquées dans les affaires](http://m.toutiao.com/group/7379891161579651621/) |
-| « Critères d'expertise médico-légale de la capacité létale des armes à feu » GA/T 718-2007 | [Critères de qualification des armes factices du Ministère de la Sécurité publique](https://m.baike.com/wiki/%E5%85%AC%E5%AE%89%E9%83%A8%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E4%BB%BF%E7%9C%9F%E6%9E%AA%E8%AE%A4%E5%AE%9A%E6%A0%87%E5%87%86%E7%9A%84%E9%80%9A%E7%9F%A5/21178760) |
+| Dispositions pertinentes du Code pénal | [Hualaw](https://m.66law.cn/question/answer/34411797.html) |
 
 ### Positionnement de ce système
 
-**Ce système est un projet exclusivement dédié à l'organisation de connaissances. Il n'implique aucune directive opérationnelle, fabrication, transaction ou recommandation de détention d'armes à feu réelles.** Toutes les méthodes d'entraînement portent sur les connaissances théoriques du sport de tir, l'entraînement physique, l'entraînement psychologique et la recherche académique. Les exercices de mise en forme à vide (practice sans munition) doivent être réalisés dans un lieu d'entraînement au tir légal, sous la supervision d'un entraîneur professionnel.
+**Ce système est un projet exclusivement dédié à l'organisation de connaissances. Il n'implique aucune directive opérationnelle, fabrication, transaction ou recommandation de détention de matériel sportif réel.** Toutes les méthodes d'entraînement portent sur les connaissances théoriques du sport de tir, l'entraînement physique, l'entraînement psychologique et la recherche académique. Les exercices à vide doivent être réalisés dans un lieu d'entraînement au tir légal, sous la supervision d'un entraîneur professionnel.
 
 ---
 
@@ -386,11 +376,11 @@ MIT License © 2026
 
 ---
 
-## Avertissement (Disclaimer)
+## Avertissement
 
-1. Ce système est un projet exclusivement dédié à l'organisation de connaissances et à la consultation éducative. **Il n'implique aucune directive opérationnelle relative aux armes à feu réelles.**
-2. Les « exercices à vide » mentionnés dans toutes les méthodes d'entraînement doivent être réalisés **dans un lieu d'entraînement au tir légal, sous la supervision d'un entraîneur professionnel.**
-3. **Les carabines à air comprimé sont classées comme armes à feu réglementées en Chine.** Toute détention, collection ou transaction privée par des particuliers est interdite ; les contrevenants seront poursuivis pénalement.
-4. Toutes les données de ce système proviennent de plateformes académiques publiques (PubMed, CrossRef, ScienceDirect, etc.) et ne concernent aucune information non publique.
-5. Les articles académiques demeurent la propriété intellectuelle de leurs auteurs et éditeurs ; ce système procède uniquement à des citations académiques et à l'organisation des connaissances.
-6. Ce système est exclusivement destiné à l'apprentissage et aux échanges éducatifs, et ne peut être utilisé à des fins commerciales.
+1. Ce système est un projet d'organisation de connaissances et d'apprentissage. Il **ne contient aucune directive relative au fonctionnement de matériel sportif réel**.
+2. Tous les « exercices à vide » dans les méthodes d'entraînement doivent être réalisés **dans un lieu d'entraînement au tir légal, sous la supervision d'un entraîneur professionnel**.
+3. **Les carabines à air sportives sont soumises à une réglementation stricte en Chine** et ne peuvent être configurées légalement que par des organisations agréées. Veuillez respecter les lois en vigueur dans votre juridiction.
+4. Toutes les données de ce système proviennent de plateformes académiques publiques (PubMed, CrossRef, ScienceDirect, etc.). Aucune information non publique n'est concernée.
+5. Les articles académiques sont protégés par le droit d'auteur de leurs auteurs et éditeurs respectifs. Ce système se limite à la citation académique et à l'organisation des connaissances.
+6. Ce système est destiné uniquement à l'apprentissage et aux échanges et ne doit pas être utilisé à des fins commerciales.
