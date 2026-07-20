@@ -27,9 +27,27 @@ def calc_score(scores: dict) -> dict:
 
     Returns:
         包含 total, max_total, percentage, level, breakdown, weaknesses, deductions 的字典
+
+    Raises:
+        ValueError: scores 为空或包含非法值时
     """
+    # 参数校验：空输入或非字典类型
+    if not scores or not isinstance(scores, dict):
+        raise ValueError(f"scores 必须为非空字典，收到: {type(scores).__name__}")
+
     # 通过 common 工具层读取 YAML 配置
     rules = load_yaml("scale-scoring-rules.yaml", subdir="config-rules")
+    required_dims = set(rules.get("dimensions", {}).keys())
+
+    # 检查必要维度是否存在
+    missing = required_dims - set(scores.keys())
+    if missing:
+        raise ValueError(f"缺少必要维度: {missing}")
+
+    # 检查得分值是否为非负数
+    for dim, val in scores.items():
+        if not isinstance(val, (int, float)) or val < 0:
+            raise ValueError(f"维度 '{dim}' 得分无效: {val}（需为非负数字）")
 
     # 从 YAML 提取等级阈值（classify_level 期望 Dict[str, float]）
     level_cfg = rules.get("level_thresholds", {})
