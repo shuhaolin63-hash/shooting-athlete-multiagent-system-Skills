@@ -3,6 +3,22 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License"/>
   <img src="https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python" alt="Python 3.9+"/>
   <img src="https://img.shields.io/badge/Claude_Code-Supported-orange?style=for-the-badge" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/GitHub-shuhaolin63--hash-brightgreen?style=for-the-badge&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Shooting_Training-Multi_Agent_System-8B4513?style=for-the-badge" alt="Shooting Training Multi-Agent System"/>
+  <br/>
+  <img src="https://img.shields.io/github/repo-size/shuhaolin63-hash/shooting-athlete-multiagent-system-Skills?style=flat-square&label=Tama%C3%B1o%20Repo" alt="Repo Size"/>
+  <img src="https://img.shields.io/github/last-commit/shuhaolin63-hash/shooting-athlete-multiagent-system-Skills?style=flat-square&label=%C3%9Altimo%20Commit" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/languages/count/shuhaolin63-hash/shooting-athlete-multiagent-system-Skills?style=flat-square&label=Idiomas" alt="Languages"/>
+  <img src="https://img.shields.io/github/top-language/shuhaolin63-hash/shooting-athlete-multiagent-system-Skills?style=flat-square&label=Idioma%20Principal" alt="Top Language"/>
+  <img src="https://img.shields.io/github/issues/shuhaolin63-hash/shooting-athlete-multiagent-system-Skills?style=flat-square&label=Issues" alt="Issues"/>
+  <img src="https://img.shields.io/github/license/shuhaolin63-hash/shooting-athlete-multiagent-system-Skills?style=flat-square&label=Licencia" alt="License"/>
+  <img src="https://img.shields.io/badge/10m_Air_Rifle-Sports_Science-2ea44f?style=flat-square" alt="10m Air Rifle Sports Science"/>
+  <img src="https://img.shields.io/badge/15_Agents-Collaborative-674ea7?style=flat-square" alt="15 Agents Collaborative"/>
+  <img src="https://img.shields.io/badge/20_Papers-PubMed_Indexed-0d6efd?style=flat-square" alt="20 Papers PubMed Indexed"/>
+  <img src="https://img.shields.io/badge/5_Dimensions-Quantitative_Assessment-d63384?style=flat-square" alt="5 Dimensions Quantitative Assessment"/>
+  <img src="https://img.shields.io/badge/Multi_Agent-AI_Agent_System-6f42c1?style=flat-square&logo=robot" alt="Multi-Agent AI Agent System"/>
+  <img src="https://img.shields.io/badge/Support_Team-3_System_Types-198754?style=flat-square" alt="Support Team 3 System Types"/>
+  <img src="https://img.shields.io/badge/500_Points-Scoring_Scale-fd7e14?style=flat-square" alt="500 Points Scoring Scale"/>
 </p>
 
 <h1 align="center">🎯 Sistema Multiagente para Tiradores Deportivos</h1>
